@@ -37,3 +37,6 @@ variable "az2" {}
 variable "az3" {}
 
 variable "instance_type" {}
+
+variable "zone_id" {}
+

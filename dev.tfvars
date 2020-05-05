@@ -21,3 +21,5 @@ tags    =   {
     Created_by              =   "rbbit"
 
 }
+
+zone_id = ""

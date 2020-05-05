@@ -1,5 +1,5 @@
 resource "aws_route53_record" "jenkins" {
-  zone_id = "Z01131383UY10PQUY6PSI"
+  zone_id = "${var.zone_id}"
   name    = "jenkins.safedevops.com"
   type    = "A"
   ttl     = "300"
