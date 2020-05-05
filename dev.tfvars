@@ -22,4 +22,4 @@ tags    =   {
 
 }
 
-zone_id = "Z01131383UY10PQUY6PSI"
+zone_id = ""
